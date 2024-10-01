@@ -16,7 +16,7 @@ A simple Python tool for **directory enumeration** designed for web penetration 
 Run the tool:
 
 ```bash
-python directory_enum.py
+python main.py
 ```
 
 Input a target like `http://yogenc.com`, and it will check paths like:
